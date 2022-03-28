@@ -1,0 +1,20 @@
+{
+    "jogos": [
+        {
+            "id": 1,
+            "nomeJogo": "Red Dead Redemption",
+            "dataLancamento": "21 / 05 / 2010",
+            "plataformas": "PS3",
+            "generos": "Ação",
+            "deseenvolvedor": "RockStar Games"
+        },
+        {
+            "id": 2,
+            "nomeJogo": "GTA V",
+            "dataLancamento": "17 / 09 / 2013",
+            "plataformas": "PS3",
+            "generos": "Ação",
+            "deseenvolvedor": "RockStar Games"
+        }
+    ]
+}

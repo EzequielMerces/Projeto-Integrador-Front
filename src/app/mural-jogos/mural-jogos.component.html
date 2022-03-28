@@ -1,0 +1,14 @@
+<section class="listar-jogos">
+<div *ngFor="let jogo of jogos">
+  <div class="card" style="width: 18rem;">
+    <div class="card-body">
+      <h5 class="card-title">ID: {{jogo.id}}</h5>
+      <h5 class="card-title">Nome Do Jogo: {{jogo.nomeJogo}}</h5>
+      <h5 class="card-title">Data de Lançamento: {{jogo.dataLancamento}}</h5>
+      <h5 class="card-title">Plataformas: {{jogo.plataformas}}</h5>
+      <h5 class="card-title">Deseenvolvedor: {{jogo.deseenvolvedor}}</h5>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>
+</div>
+</section>

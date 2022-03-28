@@ -1,0 +1,9 @@
+.listar-jogos{
+    display: flex;
+    flex-direction: row;
+}
+
+.listar-jogos .card{
+   margin: 5px 10px; 
+   min-height: 400px;
+}
